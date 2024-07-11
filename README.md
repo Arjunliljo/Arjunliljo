@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Arjun Cv</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
+![Contribution Snake](contribution_snake_2024-07-11.svg)
+
+<!-- Generated using a script -->
+<!-- Update the SVG file with your actual SVG content -->
+<svg width="905" height="112" viewBox="0 0 905 112" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="100" height="100" fill="green"/>
+  <!-- Your actual SVG code here -->
+</svg>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunliljo&label=Profile%20views&color=0e75b6&style=flat" alt="arjunliljo" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://arjun-cv-web-developer.vercel.app/](https://arjun-cv-web-developer.vercel.app/)
