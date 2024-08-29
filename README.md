@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **arjun7180@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/159ji9ZH7HKZOga7ZY6Fodxp1fRQV495F/view?usp=sharing](https://drive.google.com/file/d/159ji9ZH7HKZOga7ZY6Fodxp1fRQV495F/view?usp=sharing)
-
 - ⚡ Fun fact **404 Humor Not Found**
 
 <h3 align="left">Connect with me:</h3>
